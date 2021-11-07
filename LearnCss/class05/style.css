@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'NewYorkMedium';
+    src: url('./assets/fonts/FontsFree-Net-NewYorkMediumBold-2.ttf');
+}
+
+.imageStyle {
+  width: 304px;
+  height: 176px;
+}
+
+p{
+    font-family: 'NewYorkMedium', Courier, monospace;
+}
+
+@media (max-width: 300px) {
+    .imageStyle {
+        width: 3px;
+        height: 176px;
+      }
+      
+}

@@ -1,0 +1,147 @@
+/* 
+selectors
+ unIverSaL SeLector *{}
+ type SeLector h1,h2
+ cLaSS SeLector
+ Id SeLector
+chILd SeLector li>a {}
+deScendant SeLector  p a {}
+adjacent SIBLIng SeLector h1+p{}
+generaL SIBLIng SeLector h1~p{}
+*/
+ /* * {
+
+ }
+
+ h1{
+     background-color: aqua;
+ }
+
+ p{
+     background-color: blue;
+ }
+
+ h5{
+
+ }
+ a{
+
+ }
+
+li > a {
+
+ }
+
+li a {
+
+}
+
+h1+p{
+
+}
+h1~p{
+
+ }  */
+
+/* uniTS of Type Size */
+
+/* h1{
+    width: 500px;
+    width: '50%';
+    width: 2em;
+    width: 100vw;
+} */
+
+/* Typeface Terminology
+Serif
+SanS-Serif
+monoSpace
+*/
+/* @font-face {
+    font-family: 'Vollkorn';
+    src: url('./assets//fonts/Volkhov-Bold.ttf');
+} */
+
+h1{
+    font-size: 40px;
+}
+p{ 
+    /* font-family: 'Vollkorn', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style:italic; 
+    font-weight:600;
+    text-align: center;
+    word-spacing: 30px;
+    letter-spacing: 5px;
+    line-height: 10px;
+    text-decoration: underline;
+    text-transform: uppercase; */
+}
+
+/* 
+font-family
+font-size
+font-style
+font-weight: bold;
+text-align
+Kerning
+letter-spacing, word-spacing
+leading
+line-height
+text-decoration
+text-transform
+*/
+
+
+/* 
+pseudo-elements
+a:hover
+:first-letter
+:first-line
+*/
+
+/* a:hover{
+background-color: brown;
+}
+input:active{
+
+}
+div:hover{
+    
+} */
+
+/* aTTribuTe SelecTorS
+p[class]
+p[class="dog"]
+*/
+
+/* a[class]{
+    background-color: red;
+}
+
+a[id]{
+    background-color: red;
+} */
+
+/* 
+min-height, max-height
+min-width, max-width
+overflow
+border-radius
+box-shadow
+
+ */
+
+ p{
+    background-color: red;
+    /* width: 500px; */
+     /* min-width: 500px; */
+    max-width: 200px;
+    height: 100px;
+    overflow: scroll;
+ }
+
+
+/* icons - font awesome */
+
+ /* Css Layout */

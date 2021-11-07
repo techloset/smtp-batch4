@@ -1,0 +1,9 @@
+Assignment#01 
+Dear Students / Brothers.
+Web and Mobile Application Development, Batch-04 Section-C
+Requirements:
+1- Please create the exactly same HTML structure like below
+2- Please deploy into surge, and create online link
+3- Submit the assignment at link below
+Deadline: 10/10/2021! 
+Submit: https://forms.gle/8H9T74GgJX6cbTmA8
