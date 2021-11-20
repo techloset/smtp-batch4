@@ -68,7 +68,7 @@ var b = 2;
 // in computer a === a > data type will also consider
 console.log(2 == 3);
 // var result =  2 > 2 || 3 == 3
-var result =  2 > 2 && 3 == 3 || 4 == 4 && 2 < 2
+var result =  2 > 2 && 3 == 3 || 4 == 4 && 2 < 4
 console.log("Result ", result);
 
 // And Table 
