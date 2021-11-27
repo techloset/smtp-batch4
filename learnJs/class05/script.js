@@ -71,4 +71,14 @@ function resetH2Text() {
   }
 // setH2Text()
 
+function addTwo() {
+  var dom = document;
+  var num1 = dom.getElementById("number1")
+  var num2 = dom.getElementById("number2")
+  var result =  parseInt(num1.value) + parseInt(num2.value)
+  var someName = dom.getElementById("idH2")
+  someName.innerHTML = result
+  console.log("dom", dom);
+  }
+
 
