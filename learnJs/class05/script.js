@@ -54,7 +54,8 @@ function setH2Text() {
 var dom = document;
 var someName = dom.getElementById("idH2")
 console.log("someName", someName.innerHTML);
-someName.innerHTML = "Some New Text from js"
+var nameInput = dom.getElementById("name")
+someName.innerHTML = nameInput.value
 console.log("dom", dom);
 }
 
@@ -63,8 +64,9 @@ console.log("dom", dom);
 function resetH2Text() {
   var dom = document;
   var someName = dom.getElementById("idH2")
+  var nameInput = dom.getElementById("name")
   console.log("someName", someName.innerHTML);
-  someName.innerHTML = "Naveed Sarwar"
+  someName.innerHTML = nameInput.value
   console.log("dom", dom);
   }
 // setH2Text()
