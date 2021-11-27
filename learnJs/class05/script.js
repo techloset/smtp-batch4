@@ -58,6 +58,15 @@ someName.innerHTML = "Some New Text from js"
 console.log("dom", dom);
 }
 
+
+
+function resetH2Text() {
+  var dom = document;
+  var someName = dom.getElementById("idH2")
+  console.log("someName", someName.innerHTML);
+  someName.innerHTML = "Naveed Sarwar"
+  console.log("dom", dom);
+  }
 // setH2Text()
 
 
