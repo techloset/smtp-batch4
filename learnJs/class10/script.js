@@ -1,93 +1,68 @@
-// function
-
-// function addTwoNumbers(num1, num2) {
-//   var result = num1 + num2;
-//   return result,num1
-//   console.log("sfda");
-//   return num1
-// }
-
-// var someData = returnTwoNumbers(2, 234)
-// console.log("someData",someData);
-
-// function returnTwoNumbers(num1, num2, num3, name, flag) {
-//   var numbers = [num1, num2]
-//   var numbers2 = [num1, num2]
-//   return numbers
-// }
-
-// var result1 = addTwoNumbers(1,2)
-// console.log("result1", result1);
-// var result2 = addTwoNumbers(34,234)
-// addTwoNumbers(50,20)
-
-// global variable
-// var userName = "Naveed"
-
-// if (condition) {
-// let newNumber = 50
-
-// }
-
-// function printUserName() {
-//   var num = 4
-//   // userName = "Muhammad"
-//   let userName = "Ali"
-//   userName = "naveed"
-//   const number = 10
-//   // number = 15
-//   console.log("local scope, name", userName);
-//   console.log("num in function local scope", num);
-// }
-
-// printUserName()
-// console.log("num in function global scope", num);
-// console.log("global scope name", userName);
-
-// local scope
-// global scope
-// block scope
-
-// variable
-// if  else if
-// statement
-// experations - operators
-// loops
-// arrays
-// functions
-// types
-// dom
-
-// next
-// string handling
 // date handling
-// object handling / OOP
-// DOM advance
-// Advance
+// current date
+// var date = new Date()
 
-// DOM
+// var weekDay = date.getDay()
 
-var number = parseInt(prompt("Enter a number"));
-var box = window.document;
-// console.log("big box",box );
-var getH1 = box.getElementById("heading");
-// getH1.innerHTML = 'New <b> text </b>'
-// jss
-// getH1.style.backgroundColor = 'blue'
-// getH1.style.color = 'white'
-// console.log("geth1", getH1);
+// var days = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat']
+// console.log("weekDay", weekDay, days[weekDay]);
+// console.log("date time", date);
 
-if (number % 2 === 0) {
-  getH1.innerHTML = "Number is even";
-  getH1.style.backgroundColor = "green";
-  getH1.style.color = "white";
-} else {
-  getH1.innerHTML = "Number is odd";
-  getH1.style.backgroundColor = "red";
-  getH1.style.color = "white";
-  // imagRef.src = 'new source'
-}
+// var getMonth = date.getMonth()
+// console.log("getMonth",getMonth);
+// var getHours = date.getHours()
+// console.log("getHours",getHours);
+// var getMin = date.getMinutes()
+// console.log("getMin",getMin);
+// var getSec = date.getSeconds()
+// console.log("getSec", getSec);
+// var getMilliSeconds = date.getMilliseconds()
+// console.log("getMilliSeconds",getMilliSeconds);
+// var getYear = date.getFullYear()
+// console.log("getYear",getYear);
+// var getDate = date.getDate()
+// console.log("getDate", getDate);
+// var getTime = date.getTime()
+// console.log("getTime", getTime);
 
-// slider js
+
+// var date = new Date("10-12-2015")
+// date.setFullYear(2015)
+// date.setHours(12);
+// date.setDate();
+// date.setMinutes()
+// console.log("date", date, date.getFullYear());
+// var date = new Date()
+
+// Math Methods
+
+var colors = ['red', 'green','black', 'white', 'yellow', '#4ee243']
+
+
+var randomNumber = Math.random()
+console.log("randomNumber", colors[parseInt(randomNumber * 6)]);
+var number = Math.round(10.434)
+console.log(" number round", number);
+var numberCeil = Math.ceil(10.434)
+console.log("numberCeil", numberCeil);
+var numberfloor = Math.floor(10.934)
+console.log("numberfloor", numberfloor);
+
+var someNumber = 23.236345;
+var numberRoundAt = someNumber.toFixed(2)
+console.log("numberRoundAt", numberRoundAt);
+
+// next topics
+// string handling
+// dom advance
+// object / OOP
+// advance js
+
+// Assignment
+// slider
+
+
+
+
 
 
