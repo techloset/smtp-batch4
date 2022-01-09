@@ -1,0 +1,17 @@
+For creating react app
+- create-react-app myapp
+
+Run React App
+
+- npm start
+
+
+build production build
+
+- npm run build
+
+deploy into surge
+move to build folder after run npm run build 
+
+run
+- surge
