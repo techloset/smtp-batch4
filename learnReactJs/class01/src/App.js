@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-
+// importing css
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style.css'
-
+// importing js
 import abcImage from './poster.png'
 
 function App() {
