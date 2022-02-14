@@ -1,0 +1,11 @@
+Assignment#13
+Dear Students
+Web and Mobile Application Development, Batch-04
+Requirements:
+ - Design the provided template in reactjs
+ - deploy to firebase or surge
+ 
+Deadline: 20/02/2022!
+Submit: https://forms.gle/SduSNchYsMNaS3XP8
+Regards
+Naveed Sarwar

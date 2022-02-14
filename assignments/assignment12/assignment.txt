@@ -1,14 +1,16 @@
 
 
-Assignment#11
+Assignment#12
 Dear Students / Brothers.
 Web and Mobile Application Development, Batch-04 Section-C
 Requirements:
- - Convert your Assignment05 into Reactjs App
- - Upload your code to git repo, ensure node_modules should not be there
- - Deploy to firebase using https://www.youtube.com/watch?v=W3Uzym5WWhM or surge
+ - Design the provided figma template in Reactjs 
+ - make proper folders  for each sections in components
+ - import those in app.js and use
+ - deploy to firebase or surge
+ - link https://drive.google.com/file/d/1Hgsyp-RIAiVMM7fLYVy8v0BXQOSP6TxY/view?usp=sharing
  
-Deadline: 16/01/2022!
-Submit: https://forms.gle/a6oYeP56GwytRZkx5
+Deadline: 23/01/2022!
+Submit: https://forms.gle/GmLpEGxwuKkr8aiN6
 Regards
 Naveed Sarwar
