@@ -30,3 +30,10 @@ export default function App(props) {
     </div>
   )
 }
+
+
+// concept list
+// what is props  - pass data from parent to child
+// how to write js  in html tags ? using {}
+// how to condition html tags using js, by using conditional operator
+// how to loop html tags> map method
