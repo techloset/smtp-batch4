@@ -1,0 +1,13 @@
+Assignment#14
+Dear Students
+Web and Mobile Application Development, Batch-04
+Requirements:
+ - Design the provided template(figma) in reactjs
+ - Create Proper Folder Structure and Consistent naming
+ - deploy to firebase or surge
+ - Figma Design: https://drive.google.com/file/d/1Vp-cTswAJ1AIOZ3i1ewRT7g6d1Hhb_nT/view?usp=sharing
+ 
+Deadline: 28/02/2022!
+Submit: https://forms.gle/MLQNjSfFYGimnHvL7
+Regards
+Naveed Sarwar
