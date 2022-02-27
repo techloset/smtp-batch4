@@ -3,14 +3,14 @@ import Button from './components/button/Button'
 import Cards from './components/cards/Cards';
 import Header from './components/header/Header';
 import { cardData } from './constant/CardData'
-
+import './App.css'
 const pi = 3.44
 
 export default function App(props) {
   console.log(cardData);
   return (
     <div>
-      <Header piValue={pi} flag={false}/>
+      <Header piValue={pi} flag={false} customClass="header"/>
       <Button customStyle={{ backgroundColor: 'red' }} />
       <p>App code</p>
       <Button abc="Play" customStyle={{ backgroundColor: 'blue' }} />
