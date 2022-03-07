@@ -1,0 +1,13 @@
+Assignment#16
+Dear Students
+Web and Mobile Application Development, Batch-04
+Requirements:
+ - Design the provided template in reactjs
+ - Create Proper Folder Structure and Consistent naming
+ - Develop the logics for todo in memory app
+ - deploy to firebase or surge
+ 
+Deadline: 20/03/2022!
+Submit: https://forms.gle/P7kmYymYhND6Uq4y9
+Regards
+Naveed Sarwar

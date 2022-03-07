@@ -1,0 +1,13 @@
+Assignment#15
+Dear Students
+Web and Mobile Application Development, Batch-04
+Requirements:
+ - Design the provided template in reactjs
+ - Create Proper Folder Structure and Consistent naming
+ - Create the CRUD operations
+ - deploy to firebase or surge
+ 
+Deadline: 13/03/2022!
+Submit: https://forms.gle/JZniHi9wekt9cgWn8
+Regards
+Naveed Sarwar
