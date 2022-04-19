@@ -1,0 +1,13 @@
+Assignment#17
+Dear Students
+Web and Mobile Application Development, Batch-04
+Requirements:
+ - Use the design from Assignment16
+ - Create Proper Folder Structure and Consistent naming
+ - Develop the logics for todo in memory app using redux
+ - deploy to firebase or surge
+ 
+Deadline: 25/04/2022!
+Submit: https://forms.gle/X7tLmvr1kt1dC3P8A
+Regards
+Naveed Sarwar

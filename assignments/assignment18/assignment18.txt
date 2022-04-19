@@ -1,0 +1,15 @@
+Assignment#18
+Dear Students
+Web and Mobile Application Development, Batch-04
+Requirements:
+ - Use Design from Assignment17
+ - Create Proper Folder Structure and Consistent naming
+ - Develop the logics for todo using FIREBASE + Redux 
+ - Add login/signUp using firebase
+ - i can attach pictures while creating todos, use firebase storage
+ - deploy to firebase or surge
+ 
+Deadline: 07/05/2022!
+Submit: https://forms.gle/Q8kPSY4px3pi5Er58
+Regards
+Naveed Sarwar
