@@ -1,0 +1,30 @@
+Hardware
+generation: 
+ - 3th at least
+ - 4th+ best
+
+RAM: 
+- 8GB+ at least
+- 16GB+ best
+
+Hard Drive:
+ - HDD slow
+ - SDD (128+) at least
+ - NVME Best
+ 
+Cores:
+  - i7+ (dual core)
+  - i3+ (quad core)
+
+
+
+Expo Cli Setup ( for learning + simple Production apps  )
+
+npm install -g expo-cli
+
+expo init AwesomeProject
+
+cd AwesomeProject
+npm start # you can also use: expo start
+
+React Native Cli (Complex Production Apps)

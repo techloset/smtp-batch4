@@ -11,6 +11,5 @@ const PrivateRoute = ({
   
     return children ? children : <Outlet />;
   };
-
  
 export default PrivateRoute
