@@ -1,0 +1,19 @@
+Assignment#20
+Dear Students
+Web and Mobile Application Development, Batch-04
+Requirements:
+ - Design Birthday app
+ - Features List: 
+   - we can set the birthday date
+   - a screen with birthday countdown should be appear (design shared - we can think more)
+   - counter should be realtime - whenever we will open app it should show timer running
+   - on everyday images should be show different
+   - on day of birthday and exact time of birthday move to next screen 
+   - show confetti https://www.npmjs.com/package/react-native-confetti-cannon 
+   - and there is gift box should be open, and say Happy Birthday To You (Voice)
+ - share apk file
+ 
+Deadline: 08/07/2022!
+Submit: https://forms.gle/SNMw8GmjXrfcTWyJ6
+Regards
+Naveed Sarwar

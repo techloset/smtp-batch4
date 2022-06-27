@@ -1,0 +1,18 @@
+using hosted service (atlas):
+ - manage by service provider 
+ - cost = actual server cost($10) + management cost ($20)
+ - mongodb atlas (service)
+ - mongosh (connect db using CMD)
+ - Mongodb Compas (DB GUI)
+ - Mongoose (mongodb sdk - connect db from NODE.JS server)
+ - Prisma (ORM for nodejs connection db)
+
+using local server:
+ - manage by us 
+ - server cost ($10)
+ - install mongodb cummunity server
+ - Mongosh (connect db using CMD)
+ - Mongodb Compas (DB GUI)
+ - Mongoose (mongodb sdk - connect db from NODE.JS server)
+ - Prisma (ORM for nodejs connection db)
+
