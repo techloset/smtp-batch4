@@ -1,18 +1,23 @@
 const express = require("express");
 var bodyParser = require("body-parser");
+var cors = require('cors')
 require('dotenv').config();
 
-const port = 5000
+const port = process.env.PORT || 5000
 const app = express();
 
-const productRoutes = require('./components/products/productRoutes');
-const setupDB = require("./config/db");
+const productRoutes = require('./src/components/products/productRoutes');
+const setupDB = require("./src/config/db");
 
+app.use(cors())
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 setupDB()
 
+app.get('/',(req,res)=>{
+  res.send("server is working")
+})
 app.use('/products',productRoutes)
 
 app.listen(port, () => {
